@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossAZ", "BossAZ\BossAZ.csproj", "{89796981-9CC7-495C-9FD2-6EB464430868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89796981-9CC7-495C-9FD2-6EB464430868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89796981-9CC7-495C-9FD2-6EB464430868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89796981-9CC7-495C-9FD2-6EB464430868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89796981-9CC7-495C-9FD2-6EB464430868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF24630E-FF51-42F7-AF35-D463800BE713}
+	EndGlobalSection
+EndGlobal
